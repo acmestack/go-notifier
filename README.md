@@ -9,10 +9,6 @@
 [![build docs](https://github.com/acmestack/go-notifier/actions/workflows/build-docs.yaml/badge.svg)](https://github.com/acmestack/go-notifier/actions/workflows/build-docs.yaml)
 [![lasted release](https://img.shields.io/github/v/release/acmestack/go-notifier?label=lasted)](https://github.com/acmestack/go-notifier/releases)
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/acmestack/go-notifier.svg)](https://starchart.cc/acmestack/go-notifier)
-
 ## Contribute and Support
 
 - [How to Contribute](https://acmestack.org/docs/contributing/guide/)
